@@ -6,3 +6,5 @@ Image classifier using CNN with any images
 Google colab
 ## Load Data
 import and load data from google colab drive
+## Dataset
+downloaded several images of puppies and kittens from google using **'download all images'** extension
